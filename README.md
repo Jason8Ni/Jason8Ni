@@ -15,3 +15,11 @@ I'm a fourth year Mechatronics Engineering Student at the University of Waterloo
 ## 💡 Interests:
 - Distributed Systems
 - Databases
+
+```
+ -------- __@      __@       __@       __@      __~@
+ ----- _`\<,_    _`\<,_    _`\<,_     _`\<,_    _`\<,_
+ ---- (*)/ (*)  (*)/ (*)  (*)/ (*)  (*)/ (*)  (*)/ (*)
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                  Stay tuned, more rolling in soon!
+ ```
