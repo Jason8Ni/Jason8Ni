@@ -6,7 +6,7 @@ I'm a fourth year Mechatronics Engineering Student at the University of Waterloo
 [![Email Badge](https://img.shields.io/badge/-j28ni%40uwaterloo.ca-red?style=for-the-badge&logo=Mail.Ru&logoColor=white&link=mailto:j28ni@uwaterloo.ca)](mailto:j28ni@uwaterloo.ca)
 
 
-- 🔭 I’m currently working as a **Software Engineering Intern** at **DataDog** 
+- 🔭 I’m currently working as a **Software Engineering Intern** at **Datadog** 
 - 🌱 I’m currently learning about serverless architectures
 - 🤔 I’m looking for help with cloud infrastructure
 - 💬 Ask me about anything!
