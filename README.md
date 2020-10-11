@@ -5,11 +5,13 @@ I'm a fourth year Mechatronics Engineering Student at the University of Waterloo
 [![Linkedin Badge](http://img.shields.io/badge/jason--ni-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jason-ni/)](https://www.linkedin.com/in/jason-ni/)
 [![Email Badge](https://img.shields.io/badge/-j28ni%40uwaterloo.ca-red?style=for-the-badge&logo=Mail.Ru&logoColor=white&link=mailto:j28ni@uwaterloo.ca)](mailto:j28ni@uwaterloo.ca)
 
-
+<!-- 
 - 🔭 I’m currently working as a **Software Engineering Intern** at **Datadog** 
+-->
+- :books: I'm currently a 4th year **[Mechatronics Engineering](https://uwaterloo.ca/future-students/programs/mechatronics-engineering)** student at the **University of Waterloo**
+- 🔭 I've interned at **[Datadog](https://www.datadoghq.com/)**, **[Paravision](https://www.paravision.ai/)**, **[integrate.ai](https://integrate.ai/)**, **[Nest Wealth](https://www.nestwealth.com/)**, and **[Fidelity Investments](https://www.fidelity.com/)**  
 - 🌱 I’m currently learning about serverless architectures
-- 🤔 I’m looking for help with cloud infrastructure
-- 💬 Ask me about anything!
+- 
 
 
 ## 💡 Interests:
