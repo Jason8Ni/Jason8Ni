@@ -7,15 +7,18 @@
 - :books: I'm currently a 4th year **[Mechatronics Engineering](https://uwaterloo.ca/future-students/programs/mechatronics-engineering)** student at the **University of Waterloo**
 - 🔭 I've interned at **[Datadog](https://www.datadoghq.com/)**, **[Paravision](https://www.paravision.ai/)**, **[integrate.ai](https://integrate.ai/)**, **[Nest Wealth](https://www.nestwealth.com/)**, and **[Fidelity Investments](https://www.fidelity.com/)**  
 - 🌱 I’m currently learning about serverless architectures
-- Connect with me through Linkedin or email!
+- :coffee: Connect with me through Linkedin or email!
 
 
 ## 💡 Interests:
 - Distributed Systems
 - Databases
 
-
-
+## :tada: What I like:
+- Mechanical keyboards
+- Music
+- Biking
+- Hiking
 
 ```
                                  -------- __@      __@       __@       __@      __~@
