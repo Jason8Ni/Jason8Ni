@@ -9,7 +9,6 @@
 
 - :books: I'm a 2021 **[Mechatronics Engineering](https://uwaterloo.ca/future-students/programs/mechatronics-engineering)** graduate from the **University of Waterloo**
 - 🔭 I've interned at **[Datadog](https://www.datadoghq.com/)**, **[Paravision](https://www.paravision.ai/)**, **[integrate.ai](https://integrate.ai/)**, **[Nest Wealth](https://www.nestwealth.com/)**, and **[Fidelity Investments](https://www.fidelity.com/)**  
-- 🌱 I’m currently learning about serverless architectures
 - :coffee: Connect with me through Linkedin or email!
 
 
